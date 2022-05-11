@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Telegram Web-App for MakeGood Company](https://github.com/nozloy/make_good_app)
 
-- 🌱 I’m currently learning **Vue3, Vuetify3, React**
+- 🌱 I’m currently learning **React, Next.JS, Three.JS**
 
-- 👯 I’m looking to collaborate on **new projects**
+- 👯 I’m looking to collaborate on **Three.JS projects** with 3D artists
 
 - 🤝 I’m looking for help with **telegram bots and web app's**
 
