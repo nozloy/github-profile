@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Almir Sadykoff</h1>
-<h3 align="center">A beginning front-end (back-end) developer</h3>
+<h3 align="center">A beginning frontend (backend) developer</h3>
 
 - 🔭 I’m currently working on [Telegram Web-App for MakeGood Company](https://github.com/nozloy/makegood_portal)
 
