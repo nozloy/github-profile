@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Almir Sadykoff</h1>
 <h3 align="center">A'm beginning web-developer</h3>
 
-- 🔭 I’m currently working on [Telegram Web-App for MakeGood Company](https://github.com/nozloy/makegood_portal)
-
-- 🌱 I’m currently learning **React, Next.JS, Three.JS**
+- 🔭 I’m currently working on **Telegram Web-App for MakeGood Company**
+- 🌱 I’m currently learning **React, Express, Next.JS, Three.JS**
 
 - 👯 I’m looking to collaborate on **Three.JS projects** with 3D artists
 
