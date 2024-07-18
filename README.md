@@ -9,7 +9,7 @@
 
 Languages            |  Tools
 :-------------------------:|:-------------------------:
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,csharp,bash,xml,json,yaml,postgresql,mysql,powershell,sass,markdown&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox) | [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,wordpress,woocommerce,vercel,redis,nodejs,apache,nginx,prettier&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,csharp,bash,xml,json,yaml,postgresql,mysql,powershell,sass,markdown&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox) | [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,wordpress,woocommerce,vercel,redis,nodejs,apache,nginx,prettier&includeNames=true&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
